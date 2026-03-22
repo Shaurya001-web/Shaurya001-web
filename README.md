@@ -1,117 +1,77 @@
 # Hi, I'm Shaurya 👋
 
 🚀 Aspiring Machine Learning Engineer  
-💡 Passionate about building real-world ML systems  
+💡 Focused on building real-world ML systems  
 
 ---
 
 ## 🧠 My Journey
 
-I started my journey thinking that **DSA and competitive programming** were the ultimate path in tech.  
+I started my journey thinking that **DSA and competitive programming** were the main path in tech.  
 
-But as I explored deeper, I realized something important —  
-what truly excites me is **building intelligent systems using data and Machine Learning**, not just solving algorithmic problems.
+But as I explored more, I realized what truly excites me is **working with data and building intelligent systems using Machine Learning**.
 
-While many students focus only on problem-solving platforms,  
-I became more curious about:
+Instead of only solving algorithmic problems, I became more curious about:
 
-- How models actually learn from data  
-- How real-world ML systems are built  
-- How data flows from raw form to meaningful predictions  
+- How models learn from data  
+- How ML systems are built end-to-end  
+- How raw data is transformed into meaningful predictions  
 
 ---
 
 ## ⚙️ What I Focus On
 
-Instead of only practicing algorithms, I focus on:
-
-- 📊 Understanding datasets deeply  
-- 🔄 Building complete ML pipelines  
+- 📊 Understanding datasets  
 - 🧹 Data preprocessing & feature engineering  
-- 🤖 Training and evaluating models  
-- 🚀 Creating practical, real-world ML solutions  
-
-I enjoy working on the full flow:
+- 🤖 Model training and evaluation  
+- 🔄 Building complete ML pipelines  
 
 > **Data → Preprocessing → Model → Evaluation → Prediction**
 
 ---
 
-## 🧪 Learning Approach
+## 🌱 How I Started with ML
 
-Most of what I know comes from:
+My journey into Machine Learning began with **Linear Regression**, where I learned how models identify relationships between variables and make predictions.
 
-- Self-learning  
-- Building projects  
-- Experimenting with ideas  
-- Breaking things and fixing them  
+This helped me understand:
 
-I believe in **learning by building**, not just watching tutorials.
+- How numerical data is modeled  
+- How prediction works using mathematical relationships  
+- The foundation of supervised learning  
 
----
+After that, I moved to more practical problems like **Breast Cancer Classification using KNN**, where I worked on:
 
-## 🌱 How I Started with Machine Learning
+- Data preprocessing  
+- Feature scaling  
+- Train-test splitting  
+- Model evaluation  
 
-My ML journey began with simple curiosity —  
-*"How does a model actually make decisions?"*
-
-One of my first projects was a **Logistic Regression model** that predicted  
-whether a Bollywood movie featured Shah Rukh Khan 🎬
-
-### Features I used:
-- Release year  
-- Romance level  
-- Drama level  
-- Popularity  
-
-I even integrated **text-to-speech (pyttsx3)** so the program could speak the result.
+This transition helped me understand how ML is applied to real-world problems.
 
 ---
 
-## 💡 What I Learned From That
-
-That small project helped me understand:
+## 💡 What I Learned
 
 - How datasets are structured  
-- How classification models work  
-- How models learn patterns from features  
-- How to connect ML with real applications  
-
-That’s where things clicked for me —  
-and I started going deeper into ML.
+- Difference between regression and classification  
+- Importance of preprocessing and feature scaling  
+- How models learn patterns from data  
+- How to build end-to-end ML workflows  
 
 ---
 
 ## 🚀 Current Goal
 
-I am focused on becoming a **Machine Learning Engineer**  
-who can build scalable, real-world AI systems.
-
----
-
-## 📌 Projects
-
-- 🫀 Heart Disease Prediction (PyCaret + ML Pipeline)  
-- 🎗 Breast Cancer Classification (KNN Model)  
-- 📈 Linear Regression Basics  
-- ⚡ FastAPI Patient Data API  
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn, PyCaret  
-- **Concepts:** ML Models, Data Processing, Feature Engineering  
-- **Tools:** Git, GitHub  
+To become a **Machine Learning Engineer** capable of building scalable, real-world systems.
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: nighthowler241@gmail.com  
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/shaurya-mishra-33a564370/
 
 ---
 
-⭐ *I’m constantly learning, building, and improving — one project at a time.*
+⭐ *Learning, building, and improving every day.*
