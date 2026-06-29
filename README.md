@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya 👋
 
-### AI Backend Developer | Machine Learning Enthusiast | Agentic AI Builder
+### Agentic AI Builder | AI Backend Developer | Machine Learning Enthusiast 
 
 I'm passionate about building intelligent software using Machine Learning, LLMs, and backend engineering. I enjoy creating AI systems that combine semantic search, code understanding, automation, and scalable APIs.
 
